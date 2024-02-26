@@ -3,7 +3,7 @@ This repository has projects to showcase what I have learned in data science.  T
 
 ## Contents
 - ###  Data Visualizations
-> * AP Calculus Tracker
+  - AP Calculus Tracker
 
-- ### * Machine Learning
-> * Housing Price Predictions
+- ###  Machine Learning
+  - Housing Price Predictions
