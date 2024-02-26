@@ -7,3 +7,6 @@ This repository has projects to showcase what I have learned in data science.  T
 
 - ###  Machine Learning
   - Housing Price Predictions
+
+ - ### Other Projects
+   -Definition of a limit.
