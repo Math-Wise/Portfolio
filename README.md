@@ -1,7 +1,7 @@
 # Data Science Portfolio
 I am a highly motivated and adaptable math teacher in the middle of a career transition into data science.  This change started when I was taking statisitic courses as part of my Master's in Mathematics from Californina State University Fullerton (CSUF) and has led me through Google's Data Analysitcs Certificate, Microsofts PL-300 Ceritfication for Power BI, a post graduate certificate in Data Science from the University of Texas, and independantly studying neuaral networks.  My goal is to get an entry level position as a data scientist that will allow me to continue to learn and apply my knoweldge.  If you know a position you think I would be a good match for, please reach out to me via email at wyattehooper@gmail.com.  
 
-Here is also a link to my resume: [Wyatte Hooper's Resume](https://github.com/Math-Wise/Portfolio/blob/main/HooperResume2023.pdf)
+Here is also a link to my resume: [Wyatte Hooper's Resume](https://github.com/Math-Wise/Portfolio/blob/main/HooperResume2024.pdf)
 
 Below is an orginized list of projects that I have completed as evidence of what I have learned. 
 
