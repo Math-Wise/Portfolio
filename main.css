@@ -1,0 +1,131 @@
+header {
+	background: url("nature.jpg");
+	background-size: 100% 100%;
+	font-family: 'Raleway', sans-serif;
+	color: white;
+	margin: 0;
+}
+
+
+header h1 {
+	padding: 16.4% 34% 26.6% 34%;
+	margin: 0;
+	color: black;
+
+}
+
+header h3 {
+	margin: 0;
+	padding: 0px;
+}
+
+nav {
+	background: lavender;
+	margin: 0;
+	padding-top: 10px;
+}
+
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	margin: 0px;
+	background: #8FA5C4;
+	padding: 7.5px 15px 7.5px 15px;
+	border-radius: 5px;
+	background: forestgreen;
+	color: white;
+}
+
+nav ul li a {
+	color: white;
+}
+
+.contact {
+	margin-left: 50%;
+}
+
+.pro  {
+	border-radius: 130px;
+	margin-left: 40%;
+	height: 256px;
+	width: 256px;
+
+}
+
+body {
+	background: aliceblue;
+	font-family: helvetica;
+	margin: 0;
+}
+
+.title{
+	margin-top: 10.5%;
+	text-align: center;
+	font-size: 120%;
+}
+
+p {
+	padding: 0 25% 10% 20%;
+	font-size: 120%
+}
+
+.bar {
+	text-align: center;
+	background: cornflowerblue;
+	padding-top: 10px;
+	margin: 0;
+	text-decoration: underline;
+}
+
+.projects {
+	float: left;
+	margin: 0;
+	width: 40%;
+	background: cornflowerblue;
+	padding: 0 5% 10px 5%;
+	text-align: center;
+}
+
+.column {
+	float: left;
+	margin: 0 2px;
+	width: 39%;
+	background: lightskyblue;
+	padding: 10px 5% 10px 5%;
+	text-align: center;
+}
+
+img{
+	width: 110%;
+	height: auto;
+}
+
+.footer {
+	text-align: center;
+	background: cornflowerblue;
+	padding-top: 15px;
+	padding-bottom: 0;
+	margin: 0;
+	clear: both;
+}
+
+.end {
+background: cornflowerblue;
+	margin: 0;
+	padding: 0;
+}
+
+.end-foot {
+	list-style-type: none;
+	display: inline-block;
+	margin: 0px;
+	background: lightblue;
+	padding: 0px 10% 7.5px;
+	border-radius: 5px;
+	background: cornflowerblue;
+	color: black; 
+}
+
+.none {
+	margin: 0;
+}
